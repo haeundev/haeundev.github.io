@@ -129,8 +129,8 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
-  description: Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: https://formspree.io/f/mbjvpnvk # Add your email for contant form
+  description: Feel free to reach out by using the contact form below. I'm eager to hear from you and engage in meaningful conversations. # Add a description of your form
 
 # NOTE
 # Atega theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
