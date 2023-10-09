@@ -115,12 +115,12 @@ gallery:
 #-------------------------------
 # Social Icons Settings
 social:
-- {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", name: "Github", link: "https://github.com"}
-- {icon: "ion-logo-youtube", name: "Youtube", link: "https://youtube.com"}
-- {icon: "ion-logo-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", name: "Codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", name: "Vimeo", link: "https://vimeo.com"}
+#- {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-github", name: "Github", link: "https://github.com/haeundev"}
+- {icon: "ion-logo-youtube", name: "Youtube", link: "https://youtu.be/tZOjrRMGvQI?si=9wGmOMpPwxb7N9B3"}
+#- {icon: "ion-logo-pinterest", name: "Pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-codepen", name: "Codepen", link: "https://codepen.io"}
+#- {icon: "ion-logo-vimeo", name: "Vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the author section and footer: - {icon: "ion-logo-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
