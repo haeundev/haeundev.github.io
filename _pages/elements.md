@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
+title: SpaceCleaners
+permalink: /spacecleaners/
 image:
 ---
 
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
+"Welcome to 'Space Cleaners,' a one-of-a-kind gaming experience that breaks away from the typical space shooter genre. In this game, you become a space debris tow operator, tasked with the unique challenge of cleaning up the cosmos.
+
+Unlike most space games, you won't be engaging in battles or destruction. Instead, you'll compete in space debris towing contests, rescuing abandoned satellites and collecting broken turbines. But that's not all – you'll also venture to contaminated planets, fighting trash monsters and revitalizing the environment by growing plants.
+
+'Space Cleaners' offers a fresh and meaningful gaming adventure that can be enjoyed on various occasions and even used for educational purposes. Join us in this cosmic cleanup mission and experience the fun and uniqueness of making space a cleaner place!"
 
 ***
-
+<!-- 
 ## Headings by default:
 
 # H1 Default styles for headings
@@ -107,37 +111,29 @@ li {
 {% endhighlight %}
 
 ***
-
+-->
 ## Images
 
-![Surface](/images/50.jpg#wide)
-*Photo by [Surface](https://unsplash.com/photos/nlyWZtWTzCo) on [Unsplash](https://unsplash.com/)*
+![Surface](/images/50.png#wide)
+*1st prize winner of [2023 Metaverse Developer Contest Korea](https://www.metaversedev.kr/board_notice/%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C-2023-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC-%EB%B0%9C%ED%91%9C)*
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-    <img src="/images/104.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
+    <img src="/images/100.png" loading="lazy">
+    <img src="/images/101.png" loading="lazy">
+    <img src="/images/102.png" loading="lazy">
+    <img src="/images/103.png" loading="lazy">
+    <img src="/images/104.png" loading="lazy">
+    <img src="/images/105.png" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>SpaceCleaners Gallery</em>
 </div>
 
-![Learn](/images/02.jpg)
-*Photo by [Jeffery Erhunse](https://unsplash.com/photos/xE9Z9HZ1Grk) on [Unsplash](https://unsplash.com/)*
+![Learn](/images/106.png)
+*Photo by [AlienBusters](https://unsplash.com/photos/xE9Z9HZ1Grk)*
 
 ***
 
-## Youtube Embed
+## Gameplay Video
 
-<p><iframe src="https://www.youtube.com/embed/mXtFUUiuPiU" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-## Vimeo Embed
-
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-***
+<p><iframe src="https://youtu.be/tZOjrRMGvQI" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
