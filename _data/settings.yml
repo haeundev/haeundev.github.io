@@ -89,27 +89,27 @@ gallery:
   gallery__columns: "3" # You can change the number of gallery columns
   gallery__images:
     - alt: "Rest"
-      url: "/images/100.jpg"
+      url: "/images/100.png"
     - alt: "Lifestyle"
-      url: "/images/101.jpg"
+      url: "/images/101.png"
     - alt: "Hobby"
-      url: "/images/102.jpg"
+      url: "/images/102.png"
     - alt: "Notes"
-      url: "/images/103.jpg"
+      url: "/images/103.png"
     - alt: "Rest"
-      url: "/images/104.jpg"
+      url: "/images/104.png"
     - alt: "Hobby"
-      url: "/images/105.jpg"
+      url: "/images/105.png"
 
 
 #-------------------------------
 # Newsletter
-mailchimp:
-  enable: true
-  mailchimp__title: Subscribe to new posts # Add your Title
-  mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-  mailchimp__identifier: "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__button__text: Subscribe
+# mailchimp:
+#   enable: true
+#   mailchimp__title: Subscribe to new posts # Add your Title
+#   mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+#   mailchimp__identifier: "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+#   mailchimp__button__text: Subscribe
 
 
 #-------------------------------
