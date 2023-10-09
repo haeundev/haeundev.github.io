@@ -2,16 +2,13 @@
 layout: page
 title: SpaceCleaners
 permalink: /spacecleaners/
-image:
+image: '/images/spacecleaners-logo.png'
 ---
 
-"Welcome to 'Space Cleaners,' a one-of-a-kind gaming experience that breaks away from the typical space shooter genre. In this game, you become a space debris tow operator, tasked with the unique challenge of cleaning up the cosmos.
+## 1st prize winner of 2023 Metaverse Developer Contest Korea
+#### Team AlienBusters (Haeun Oh, Tatiana Chibisova, Jeeseung Ryu)
+"Welcome to 'Space Cleaners,' a one-of-a-kind gaming experience that breaks away from the typical space shooter genre. Unlike most space games, you won't be engaging in battles or destruction. Instead, you'll compete in space debris towing contests, rescuing abandoned satellites and collecting broken turbines. But that's not all – you'll also venture to contaminated planets, fighting trash monsters and revitalizing the environment by growing plants. Join us in this cosmic cleanup mission and experience the fun and uniqueness of making space a cleaner place!"
 
-Unlike most space games, you won't be engaging in battles or destruction. Instead, you'll compete in space debris towing contests, rescuing abandoned satellites and collecting broken turbines. But that's not all – you'll also venture to contaminated planets, fighting trash monsters and revitalizing the environment by growing plants.
-
-'Space Cleaners' offers a fresh and meaningful gaming adventure that can be enjoyed on various occasions and even used for educational purposes. Join us in this cosmic cleanup mission and experience the fun and uniqueness of making space a cleaner place!"
-
-***
 <!-- 
 ## Headings by default:
 
@@ -130,10 +127,9 @@ li {
 </div>
 
 ![Learn](/images/106.png)
-*Photo by [AlienBusters](https://unsplash.com/photos/xE9Z9HZ1Grk)*
+*Photo by AlienBusters*
 
-***
 
 ## Gameplay Video
 
-<p><iframe src="https://youtu.be/tZOjrRMGvQI" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/tZOjrRMGvQI?si=dyWXTKqzYndIHbnw" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
