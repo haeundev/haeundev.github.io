@@ -68,6 +68,3 @@ image: '/images/01.png'
 - **Accompaniment for music broadcasts** (04/2014 - 06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
 - **Instructor at Gyeonggi-do Office of Education's Dream School for Musical Production** (04/2014 - 12/2016)
-
-
-<a href="https://haeundev.github.io/spacecleaners/" class="button button--rounded disqus-button" type="button">See additional experiences</a>
