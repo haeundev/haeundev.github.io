@@ -21,7 +21,7 @@ menu__settings:
       - url: "/get-out/"
         title: "Get Out"
       - url: "/space-cleaners/"
-        title: "Space Cleaners"
+        title: "SpaceCleaners"
 
 
 #-------------------------------
