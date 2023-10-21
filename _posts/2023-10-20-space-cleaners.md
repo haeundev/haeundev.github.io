@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Space Cleaners
-description: Team AlienBusters 2023\n 1st prize winner of 2023 Metaverse Developer Contest Korea
+description: Team AlienBusters 2023
+1st prize winner of 2023 Metaverse Developer Contest Korea
 date: 2023-10-20 15:01:35 +0900
 image: '/images/spacecleaners-logo.png'
 tags: [game, VR]
