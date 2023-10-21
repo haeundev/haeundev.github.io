@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Space Cleaners
-description: Team AlienBusters: Haeun Oh, Tatiana Chibisova, Jeeseung Ryu<br>1st prize winner of Metaverse Developer Contest Korea 2023
+description: Haeun Oh, Tatiana Chibisova, Jeeseung Ryu<br>1st prize winner of Metaverse Developer Contest Korea 2023
 date: 2023-10-20 15:01:35 +0900
 image: '/images/spacecleaners-logo.png'
 tags: [game, VR]
