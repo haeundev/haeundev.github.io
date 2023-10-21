@@ -2,7 +2,7 @@
 layout: post
 title: If you cannot do great things, do small things in a way
 description: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
-date: 2022-04-23 15:01:35 +0300
+date: 2023-10-21 15:01:35 +0900
 image: '/images/11.jpg'
 tags: [family, lifestyle]
 featured: true
