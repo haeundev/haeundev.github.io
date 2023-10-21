@@ -60,8 +60,7 @@ image: '/images/01.png'
 
 ---
 
-## Additional Experience
-
+## Additional Information
 - **Distribution/Management Team at Sound Republica** (June 2019 - September 2019)
   - Role in a music distribution company.
 - **Member of the Philosophy Reading Group** (February 2018 - February 2019)
@@ -69,12 +68,7 @@ image: '/images/01.png'
 - **Scholarship recipient at Ewha Womans University Graduate School of Philosophy** (September 2018 - February 2019)
 - **Intern in the Planning & Marketing Team at ACOM** (June 2017 - August 2017)
   - Role in a musical production company.
-- **Music Director and Assistant Director at "Tonggam"** (June 2016 - October 2017)
-  - Role at the Seoul non-profit organization.
-- **Composer and Director for "Orchestreet"** (June 2016 - September 2016)
-  - An original musical.
 - **Music Instructor at Seondeok High School** (August 2015)
-- **Member of the University Combined Choir, Ssangtoos Chorus** (March 2014 - September 2016)
 - **Accompaniment for music broadcasts** (April 2014 - June 2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
 - **Instructor at Gyeonggi-do Office of Education's Dream School for Musical Production** (April 2014 - December 2016)
