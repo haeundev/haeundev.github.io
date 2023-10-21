@@ -28,8 +28,6 @@ The player's spaceship is UFO-shaped, offering a 360-degree view of space. The c
 ### Jungle Planet Course
 Players cultivate three distinct plants. Movement options include teleportation or smooth walking, with anti-nausea vignette effects. Color adjustments utilize hue shifts. With a healing-themed background score, NPCs guide and celebrate missions. Effects showcase nature's beauty and growth.
 ### Desert Planet Course
-![Game Scene](/images/100.png)
-![Game Scene](/images/102.png)
 The most dynamic scene where players wear cartoonish boxing gloves to combat trash monsters. Upon defeating them, recyclable trash drops which players sort at designated stations. NPCs animate based on sorting accuracy.
 
 <div class="gallery-box">
