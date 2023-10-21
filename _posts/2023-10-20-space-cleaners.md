@@ -3,7 +3,7 @@ layout: post
 title: Space Cleaners
 description: Team AlienBusters 2023
 date: 2023-10-20 15:01:35 +0900
-image: '/images/spacecleaners-logo.jpg'
+image: '/images/spacecleaners-logo.png'
 tags: [game, vr]
 featured: true
 ---
@@ -17,9 +17,7 @@ In May 2023, South Korea successfully launched the Nuri rocket, demonstrating it
 ## Hardware
 Meta Quest 2 VR HMD, PC (Windows, Mac)
 ## Software
-Unity3D, Unity OpenXR plugin, XR Interaction Toolkit, Blender, Illustrator, Photoshop
-## Programming Languages
-C#, Python
+Unity3D, OpenXR plugin, Blender, Illustrator, Photoshop
 ## System Design & Architecture
 ### Key foundational functionalities common across various modules include:
 
@@ -31,8 +29,8 @@ C#, Python
 - Observer Pattern: Manages in-game events, minimizing unnecessary function calls and boosting frame rates.
 - Optimization: Resource compression, lighting layer adjustments, and making certain objects static are part of the optimization process.
 - Use of Singleton Pattern & Static Classes: They are designed when functionalities are required across multiple modules.
-## Key Features of the Project
 
+## Key Features of the Project
 ### Story
 "Space Plogging Championship" is an inter-galactic space debris collection competition held annually, marking its 139th year. It's akin to a triathlon, where participants gather space debris, purify a jungle planet's air pollution by cultivating plants, and battle trash monsters on a desert planet to sort waste.
 - Space
@@ -44,12 +42,12 @@ The most dynamic scene where players wear cartoonish boxing gloves to combat tra
 - Other Technical Details
 The game features an engaging dialogue system that offers diverse NPC responses based on player choices. Sand planet monsters utilize the A* algorithm for movement, and various interactions are managed using colliders and damage values. Particle effects, background music, and sound effects are strategically employed
 
-![Game Scene](/images/spacecleaners-0.jpg)
+![Game Scene](/images/spacecleaners-0.png)
 <!-- *Photo by [Katie Emslie](https://unsplash.com/photos/B2-_qpgJm9Y) on [Unsplash](https://unsplash.com/)* -->
 
 Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
-## Happiness in every moment
 
+## Happiness in every moment
 Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales libero eget ante. Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo.
 
 ![Boy](/images/11-1.jpg)
