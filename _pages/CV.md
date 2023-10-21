@@ -2,8 +2,9 @@
 layout: page
 title: Haeun Oh
 permalink: /cv/
-description: Software Engineer (3 years' experience) | MSc Candidate at KAIST
+description: Software Engineer (3 years' experience) | MSc Candidate at KAIST<br><br>I am a software engineer who is genuinely interested in problems related to Human-Computer Interaction. In my three years in the game industry, I've designed and implemented a fully fledged in-game dialogue system. From 2023 Spring, I am pursuing MSc degree in Culture Technology at KAIST to study Speech and Brain. Using EEG(Electroencephalogram), I will seek out innovative solutions to problems of Speech Perception and Production in BCI(Brain-Computer Interface) field.
 image: '/images/01.png'
+tags: [competent gamedev with project management skills]
 ---
 
 ## Skills
@@ -16,13 +17,16 @@ image: '/images/01.png'
 
 ## Work Experience
 
-### Game Developer at [Archipin Inc.](https://www.archipin.com/) (Gangnam-gu, Seoul)
-- Period: 04/2020 - 01/2023
-- Specialized in an intent-entity-based dialogue system development.
-- Built a graph GUI tool for dialogue contents using Unity and XNode.
-- Implemented game features in collaboration with designers and artists.
-- Authored technical documents for team reference.
-- Adopted agile methodologies with a focus on Scrum.
+- **Game Developer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020 - 01/2023)
+  - Specialized in an intent-entity-based dialogue system development.
+  - Built a graph GUI tool for dialogue contents using Unity and XNode.
+  - Implemented game features in collaboration with designers and artists.
+  - Authored technical documents for team reference.
+  - Adopted agile methodologies with a focus on Scrum.
+- **Intern in the Distribution Team at [Sound Republica](https://www.soundrepublica.com/)** (June 2019 - September 2019)
+  - Role in a music distribution company.
+- **Intern in the Planning Team at [ACOM](http://acommusical.com/default/)** (June 2017 - August 2017)
+  - Role in a musical production company.
 
 ---
 
@@ -61,13 +65,10 @@ image: '/images/01.png'
 ---
 
 ## Additional Information
-- **Distribution/Management Team at Sound Republica** (June 2019 - September 2019)
-  - Role in a music distribution company.
 - **Member of the Philosophy Reading Group** (February 2018 - February 2019)
   - Affiliated with Ewha Womans University Graduate School of Philosophy.
 - **Scholarship recipient at Ewha Womans University Graduate School of Philosophy** (September 2018 - February 2019)
-- **Intern in the Planning & Marketing Team at ACOM** (June 2017 - August 2017)
-  - Role in a musical production company.
+
 - **Music Instructor at Seondeok High School** (August 2015)
 - **Accompaniment for music broadcasts** (April 2014 - June 2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
