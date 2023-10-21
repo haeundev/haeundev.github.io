@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: "About"
       url: "/about/"
+    - title: "CV"
+      url: "/cv/"
     - title: "Contact"
       url: "/contact/"
     - title: "SpaceCleaners"
