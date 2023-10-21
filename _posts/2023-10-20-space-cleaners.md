@@ -41,7 +41,6 @@ The most dynamic scene where players wear cartoonish boxing gloves to combat tra
     <img src="/images/spacecleaners-3.png" loading="lazy">
     <img src="/images/50.png" loading="lazy">
   </div>
-  <em>GetOut Gallery</em>
 </div>
 
 
