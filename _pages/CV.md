@@ -2,7 +2,7 @@
 layout: page
 title: Haeun Oh
 permalink: /cv/
-description: Software Engineer (3 years' experience) | MSc Candidate at KAIST<br><br>I am a software engineer who is genuinely interested in problems related to Human-Computer Interaction. In my three years in the game industry, I've designed and implemented a fully fledged in-game dialogue system. From 2023 Spring, I am pursuing MSc degree in Culture Technology at KAIST to study Speech and Brain. Using EEG(Electroencephalogram), I will seek out innovative solutions to problems of Speech Perception and Production in BCI(Brain-Computer Interface) field.
+description: Software Engineer (3 years' experience) | MSc Candidate at KAIST<br><br>I am a software engineer who is genuinely interested in problems related to Human-Computer Interaction. In my three years in the game industry, I've designed and implemented a fully-fledged in-game dialogue system. From 2023 Spring, I am pursuing an MSc degree in Culture Technology at KAIST to study Speech and Brain. Using EEG(Electroencephalogram), I will seek out innovative solutions to problems of Speech Perception and Production in the BCI(Brain-Computer Interface) field.
 image: '/images/01.png'
 ---
 
@@ -23,7 +23,7 @@ image: '/images/01.png'
 
 ## Skills
 - **Programming Languages**: C++, C#, Python
-- **Game Engines**: Unity, Unreal Engine
+- **Game Engines**: Unity
 - **Tools**: Git, Logic Pro X
 - **Platforms**: PC, Mobile, VR/AR
 - **Language**: Korean(Native), English(Fluent), Mandarin Chinese(Intermediate)
