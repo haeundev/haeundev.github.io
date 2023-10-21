@@ -25,6 +25,12 @@ image: '/images/01.png'
 ![Learn](/images/106.jpg)
 *Photo by AlienBusters*
 
+Specialized in an intent-entity-based dialogue system improvement and development, cooperating
+with NLP(Sound Recognition, Lip-sync Generation, TTS) engineers.
+Individually built a graph GUI tool with Unity and XNode open source library for writers of dialogue
+contents. Collaborated with designers and artists to implement in-game features.
+Implemented design patterns and SOLID principles in code for efficient and stable structure. Provided accurate predicted timings for tasks and completed them on time. Created technical documents and manuals for future reference. Worked in an agile software development environment that utilized the Scrum process.
+
 
 ## Gameplay Video
 
