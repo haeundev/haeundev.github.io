@@ -4,7 +4,6 @@ title: Haeun Oh
 permalink: /cv/
 description: Software Engineer (3 years' experience) | MSc Candidate at KAIST<br><br>I am a software engineer who is genuinely interested in problems related to Human-Computer Interaction. In my three years in the game industry, I've designed and implemented a fully fledged in-game dialogue system. From 2023 Spring, I am pursuing MSc degree in Culture Technology at KAIST to study Speech and Brain. Using EEG(Electroencephalogram), I will seek out innovative solutions to problems of Speech Perception and Production in BCI(Brain-Computer Interface) field.
 image: '/images/01.png'
-tags: [competent gamedev with project management skills]
 ---
 
 ## Skills
@@ -65,14 +64,10 @@ tags: [competent gamedev with project management skills]
 ---
 
 ## Additional Information
-- **Member of the Philosophy Reading Group** (February 2018 - February 2019)
-  - Affiliated with Ewha Womans University Graduate School of Philosophy.
-- **Scholarship recipient at Ewha Womans University Graduate School of Philosophy** (September 2018 - February 2019)
-
-- **Music Instructor at Seondeok High School** (August 2015)
-- **Accompaniment for music broadcasts** (April 2014 - June 2019)
+- **Music Instructor at Seondeok High School** (08/2015)
+- **Accompaniment for music broadcasts** (04/2014 - 06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
-- **Instructor at Gyeonggi-do Office of Education's Dream School for Musical Production** (April 2014 - December 2016)
+- **Instructor at Gyeonggi-do Office of Education's Dream School for Musical Production** (04/2014 - 12/2016)
 
 
 <a href="https://haeundev.github.io/spacecleaners/" class="button button--rounded disqus-button" type="button">See additional experiences</a>
