@@ -34,14 +34,15 @@ C#, Python
 ## Key Features of the Project
 
 ### Story
-"Space Plogging Championship" is an international trash collection competition held annually, marking its 139th year. It's akin to a triathlon, where participants gather space debris, purify a jungle planet's air pollution by cultivating plants, and battle trash monsters on a desert planet to sort waste.
+"Space Plogging Championship" is an inter-galactic space debris collection competition held annually, marking its 139th year. It's akin to a triathlon, where participants gather space debris, purify a jungle planet's air pollution by cultivating plants, and battle trash monsters on a desert planet to sort waste.
 - Space
 The player's spaceship is UFO-shaped, offering a 360-degree view of space. The cockpit allows tilt, rotation, and speed adjustments. Space employs a wrapping algorithm, enabling infinite flight. Tutorials are integrated into conversations. A plogging race map and current rankings are displayed.
 - Jungle Planet Course
 Players cultivate three distinct plants. Movement options include teleportation or smooth walking, with anti-nausea vignette effects. Color adjustments utilize hue shifts. With a healing-themed background score, NPCs guide and celebrate missions. Effects showcase nature's beauty and growth.
 - Desert Planet Course
 The most dynamic scene where players wear cartoonish boxing gloves to combat trash monsters. Upon defeating them, recyclable trash drops which players sort at designated stations. NPCs animate based on sorting accuracy.
-Technical Details: The game features an engaging dialogue system that offers diverse NPC responses based on player choices. Sand planet monsters utilize the A* algorithm for movement, and various interactions are managed using colliders and damage values. Particle effects, background music, and sound effects are strategically employed
+- Other Technical Details
+The game features an engaging dialogue system that offers diverse NPC responses based on player choices. Sand planet monsters utilize the A* algorithm for movement, and various interactions are managed using colliders and damage values. Particle effects, background music, and sound effects are strategically employed
 
 ![Game Scene](/images/spacecleaners-0.jpg)
 <!-- *Photo by [Katie Emslie](https://unsplash.com/photos/B2-_qpgJm9Y) on [Unsplash](https://unsplash.com/)* -->
