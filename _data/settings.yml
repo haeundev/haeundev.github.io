@@ -77,9 +77,9 @@ links__item:
 hero:
   hero__title: Hi, I'm <span>Haeun Oh</span>. # Wrap text in a <span></span> tag to highlight and underline text.
   hero__job: Creator, Engineer
-  hero__description: MSc Candidate at KAIST <br>Software Engineer
-  hero__button__text: Read about my past
-  hero__button__link: "/about/"
+  hero__description: MSc Candidate at KAIST GSCT
+  hero__button__text: Read my CV
+  hero__button__link: "/cv/"
   hero__image: "/images/01.png"
 
 
