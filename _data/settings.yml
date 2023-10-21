@@ -19,9 +19,9 @@ menu__settings:
     - title: "Pages"
       submenu:
       - url: "/get-out/"
-        title: "Get Out"
+        title: "GetOut:AnAcousticGame"
       - url: "/space-cleaners/"
-        title: "SpaceCleaners"
+        title: "SpaceCleanersVR"
 
 
 #-------------------------------
