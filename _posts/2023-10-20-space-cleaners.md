@@ -12,10 +12,12 @@ Welcome to ‘Space Cleaners,’ a one-of-a-kind gaming experience that breaks a
 ![Game Scene](/images/spacecleaners-0.png)
 <!-- *Photo by [Katie Emslie](https://unsplash.com/photos/B2-_qpgJm9Y) on [Unsplash](https://unsplash.com/)* -->
 
+
 # Background and Purpose
 In May 2023, South Korea successfully launched the Nuri rocket, demonstrating its capability to independently load and launch satellites. This has elevated South Korea's space industry to a globally trusted level, and the country is expected to continue leading efforts in space development. However, not just in South Korea but globally, active efforts are required to address the space debris problem caused by advances in space technology. Issues resulting from space debris, including fragments of satellites and other waste, are increasing. By 2023, there were nearly 9,000 satellites in Earth's orbit, and this number is expected to soar to 60,000 by 2030. Currently, over 100 trillion pieces of debris are believed to be circling the Earth. We've addressed this societal issue with an engaging 'Plogging' game. Derived from the Swedish 'plocka upp' (to pick up) and the English 'jogging', plogging is a global environmental movement that combines exercise with trash pickup. Taking inspiration from this, we designed the narrative of an "Aliens' Plogging Championship". Players navigate a spaceship through vast space, use nets to collect debris, and visit two extraterrestrial planets to purify their unique environments.
 
 ![Game Scene](/images/103.png)
+
 
 # Key Features of the Project
 ### Story
@@ -29,6 +31,19 @@ Players cultivate three distinct plants. Movement options include teleportation 
 ![Game Scene](/images/100.png)
 ![Game Scene](/images/102.png)
 The most dynamic scene where players wear cartoonish boxing gloves to combat trash monsters. Upon defeating them, recyclable trash drops which players sort at designated stations. NPCs animate based on sorting accuracy.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/100.png" loading="lazy">
+    <img src="/images/104.png" loading="lazy">
+    <img src="/images/102.png" loading="lazy">
+    <img src="/images/spacecleaners-2.png" loading="lazy">
+    <img src="/images/spacecleaners-3.png" loading="lazy">
+    <img src="/images/50.png" loading="lazy">
+  </div>
+  <em>GetOut Gallery</em>
+</div>
+
 
 # Gameplay Video
 <p><iframe src="https://www.youtube.com/embed/tZOjrRMGvQI?si=dyWXTKqzYndIHbnw" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
