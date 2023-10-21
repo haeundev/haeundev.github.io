@@ -6,14 +6,6 @@ description: Software Engineer (3 years' experience) | MSc Candidate at KAIST<br
 image: '/images/01.png'
 ---
 
-## Skills
-- **Programming Languages**: C++, C#, Python
-- **Game Engines**: Unity, Unreal Engine
-- **Tools**: Git, Logic Pro X
-- **Platforms**: PC, Mobile, VR/AR
-
----
-
 ## Work Experience
 
 - **Game Developer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020 - 01/2023)
@@ -26,6 +18,15 @@ image: '/images/01.png'
   - Role in a music distribution company.
 - **Intern in the Planning Team at [ACOM](http://acommusical.com/default/)** (June 2017 - August 2017)
   - Role in a musical production company.
+
+---
+
+## Skills
+- **Programming Languages**: C++, C#, Python
+- **Game Engines**: Unity, Unreal Engine
+- **Tools**: Git, Logic Pro X
+- **Platforms**: PC, Mobile, VR/AR
+- **Language**: Korean(Native), English(Fluent), Mandarin Chinese(Intermediate)
 
 ---
 
@@ -53,13 +54,6 @@ image: '/images/01.png'
 ## Awards & Achievements
 - **[Minister of Science and ICT](https://www.msit.go.kr/index.do) Award** for Metaverse Developer Contest Korea 2023
 - Exhibited Project [Space Cleaners](https://haeundev.github.io/spacecleaners/) at Korea Metaverse Festival (KMF 2023)
-
----
-
-## Languages
-- **Korean**: Native
-- **English**: Fluent
-- **Mandarin Chinese**: Intermediate
 
 ---
 
