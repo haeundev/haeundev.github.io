@@ -18,7 +18,7 @@ menu__settings:
       url: "/spacecleaners/"
     - title: "Pages"
       submenu:
-      - url: "/if-you-cannot-do-great-things-do-small-things-in-a-great-way/"
+      - url: "/if-you-cannot-do-great-things-do-small-things-in-a-way/"
         title: "Lifestyle"
       - url: "/you-must-be-the-change-you-wish-to-see-in-the-world/"
         title: "Workflow"
