@@ -18,10 +18,10 @@ menu__settings:
       url: "/spacecleaners/"
     - title: "Pages"
       submenu:
-      - url: "/if-you-cannot-do-great-things-do-small-things-in-a-way/"
-        title: "Lifestyle"
-      - url: "/you-must-be-the-change-you-wish-to-see-in-the-world/"
-        title: "Workflow"
+      - url: "/get-out/"
+        title: "Get Out"
+      - url: "/space-cleaners/"
+        title: "Space Cleaners"
 
 
 #-------------------------------
