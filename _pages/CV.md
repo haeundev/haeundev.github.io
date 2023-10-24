@@ -58,6 +58,8 @@ image: '/images/01.png'
 ---
 
 ## Additional Information
+- **KAIST Startup Simulation Games(KSSG) TEAM** (01/2023 - Present)
+  - Developing strategic simulation games utilized in entrepreneurship education world-wide.
 - **Music Instructor at Seondeok High School** (08/2015)
 - **Accompaniment for music broadcasts** (04/2014 - 06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
