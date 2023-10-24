@@ -8,12 +8,20 @@ image: '/images/01.png'
 
 ## Work Experience
 
-- **Game Developer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020 - 01/2023)
-  - Specialized in an intent-entity-based dialogue system development.
-  - Built a graph GUI tool for dialogue contents using Unity and XNode.
-  - Implemented game features in collaboration with designers and artists.
-  - Authored technical documents for team reference.
-  - Adopted agile methodologies with a focus on Scrum.
+- **Software Engineer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020 - 01/2023)
+  - Dialogue system development
+    - Designed and built an intent-entity-based pipeline, combining rule-based approach with neural network models to ensure balance between product quality and software scalability.
+  - Tool development
+    - Built a graph GUI tool for designing dialogue contents, which was widely used across departments.
+  - Game development
+    - Implemented various systems and features for games in collaboration with designers and artists.
+  - Documentation
+    - Authored detailed and easy-to-read technical documents for team reference.
+  - Working agile
+    - Adopted agile methodologies with a focus on daily Scrum, and using tools such as Jira.
+  - Leading experience
+    - One of the key developers of the project [Hello Ludi](https://www.helloludi.com/). The company received 10 billion Korean won in investment.
+    - Led contents development in [SK Broadband's Live English](https://www.youtube.com/embed/FTetrBwsLOI?si=H2Nc5s_YyfgOGp6e)
 - **Intern in the Distribution Team at [Sound Republica](https://www.soundrepublica.com/)** (June 2019 - September 2019)
   - Role in a music distribution company.
 - **Intern in the Planning Team at [ACOM](http://acommusical.com/default/)** (June 2017 - August 2017)
@@ -51,15 +59,16 @@ image: '/images/01.png'
 
 ---
 
-## Awards & Achievements
+## Awards
 - **[Minister of Science and ICT](https://www.msit.go.kr/index.do) Award** for Metaverse Developer Contest Korea 2023
 - Exhibited Project [Space Cleaners](https://haeundev.github.io/spacecleaners/) at Korea Metaverse Festival (KMF 2023)
 
 ---
 
-## Additional Information
+## Additional Experience
 - **KAIST Startup Simulation Games(KSSG) TEAM** (01/2023 - Present)
   - Developing strategic simulation games utilized in entrepreneurship education world-wide.
+
 - **Music Instructor at Seondeok High School** (08/2015)
 - **Accompaniment for music broadcasts** (04/2014 - 06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
