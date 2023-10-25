@@ -58,7 +58,7 @@ image: '/images/01.png'
 ## Additional Acheivements
 - 1st prize Winner of [Minister of Science and ICT](https://www.msit.go.kr/index.do) Award for **Metaverse Developer Contest Korea 2023**. Received 20,000,000 KRW.
 - Exhibited Project [Space Cleaners](https://haeundev.github.io/spacecleaners/) at **Korea Metaverse Festival** (KMF 2023)
-- Academic Performance Scholarship, Ewha Womans University (full tuition) (2018 Spring, 2017 Fall, 2017 Spring, 2016 Fall, 2015 Fall)
+- Academic Excellence Scholarship, Ewha Womans University (full tuition) (2019 Spring, 2018 Fall, 2018 Spring, 2017 Fall, 2017 Spring, 2016 Fall, 2015 Fall)
 
 ---
 
