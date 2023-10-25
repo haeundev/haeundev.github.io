@@ -43,11 +43,7 @@ image: '/images/01.png'
 - **MSc Candidate in [GSCT (Graduate School of Culture Technology)](https://ct.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/kr/)** (02/2023 - Present)
 - **BA in English Language and Literature / Humanities, Cultural Arts, and Media** at [Ewha Womans University](https://www.ewha.ac.kr/ewha/index.do), Seoul (02/2014 - 08/2018)
   - Honors: Dean's list, Graduated Summa Cum Laude (GPA: 4.3/4.5)
-  - Thesis: Comparison of Korean and English vowels in Daegu dialect and Seoul Korean
-- **Studied at [Goyang Global High School]**, (08/2009)
-- **Studied at [High School Affiliated to Beijing Institute of Technology]**, (08/2009)
-- **Studied at [Wilson Primary School]**, Australia (March 2007 - May 2007)
-- **Studied at [First Toa Payoh Primary School]**, Singapore (11/2005 - 03/2007)
+  - Thesis: Comparison of F1 and F2 Values of the Korean vowels /ㅡ/(ɯ)-/ㅓ/(ʌ) and the English vowels /ʊ/- /ʌ/ in Daegu dialect and Seoul Korean
 
 ---
 
@@ -59,16 +55,16 @@ image: '/images/01.png'
 
 ---
 
-## Awards
-- **[Minister of Science and ICT](https://www.msit.go.kr/index.do) Award** for Metaverse Developer Contest Korea 2023
+## Additional Acheivements
+- 1st prize Winner of **[Minister of Science and ICT](https://www.msit.go.kr/index.do) Award** for Metaverse Developer Contest Korea 2023. Received 20,000,000 KRW.
 - Exhibited Project [Space Cleaners](https://haeundev.github.io/spacecleaners/) at Korea Metaverse Festival (KMF 2023)
+- Academic Performance Scholarship, Ewha Womans University (full tuition) (2018 Spring, 2017 Fall, 2017 Spring, 2016 Fall, 2015 Fall)
 
 ---
 
 ## Additional Experience
 - **KAIST Startup Simulation Games(KSSG) TEAM** (01/2023 - Present)
   - Developing strategic simulation games utilized in entrepreneurship education world-wide.
-
 - **Music Instructor at Seondeok High School** (08/2015)
 - **Accompaniment for music broadcasts** (04/2014 - 06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
