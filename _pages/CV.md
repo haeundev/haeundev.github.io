@@ -8,7 +8,7 @@ image: '/images/01.png'
 
 ## Work Experience
 
-- **Software Engineer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020 - 01/2023)
+- **Full-time Software Engineer at [Archipin Inc.](https://www.archipin.com/)**, Seoul (04/2020-01/2023)
   - Dialogue system development
     - Designed and built an intent-entity-based pipeline, combining rule-based approach with neural network models to ensure balance between product quality and software scalability.
   - Tool development
@@ -22,9 +22,9 @@ image: '/images/01.png'
   - Leading experience
     - One of the key developers of the project [Hello Ludi](https://www.helloludi.com/). The company received 10 billion Korean won in investment.
     - Led contents development in [SK Broadband's Live English](https://www.youtube.com/embed/FTetrBwsLOI?si=H2Nc5s_YyfgOGp6e)
-- **Intern in the Distribution Team at [Sound Republica](https://www.soundrepublica.com/)** (June 2019 - September 2019)
+- **Intern, Distribution Team at [Sound Republica](https://www.soundrepublica.com/)** (06/2019-09/2019)
   - Role in a music distribution company.
-- **Intern in the Planning Team at [ACOM](http://acommusical.com/default/)** (June 2017 - August 2017)
+- **Intern, Planning Team at [ACOM](http://acommusical.com/default/)** (06/2017-08/2017)
   - Role in a musical production company.
 
 ---
@@ -56,16 +56,19 @@ image: '/images/01.png'
 ---
 
 ## Additional Acheivements
-- 1st prize Winner of [Minister of Science and ICT](https://www.msit.go.kr/index.do) Award for **Metaverse Developer Contest Korea 2023**. Received 20,000,000 KRW.
+- 1st prize Winner of **Metaverse Developer Contest Korea 2023**. Received 20,000,000 KRW.
+  - [Ministry of Science and ICT](https://www.msit.go.kr/index.do) Award (과학기술정보통신부장관상)
 - Exhibited Project [Space Cleaners](https://haeundev.github.io/spacecleaners/) at **Korea Metaverse Festival** (KMF 2023)
 - Academic Excellence Scholarship, Ewha Womans University (full tuition) (2019 Spring, 2018 Fall, 2018 Spring, 2017 Fall, 2017 Spring, 2016 Fall, 2015 Fall)
 
 ---
 
 ## Additional Experience
-- **KAIST Startup Simulation Games(KSSG) TEAM** (01/2023 - Present)
+- **KAIST Startup Simulation Games(KSSG) TEAM** (01/2023-Present)
   - Developing strategic simulation games utilized in entrepreneurship education world-wide.
+- **Metaverse Fellowship Program** (10/2023-12/2023)
+  - Advanced talent development program for specialized metaverse services, content Development, entrepreneurship, and business Integration - Supported by Ministry of Science and ICT and Korea(과학기술정보통신부) Radio Promotion Association(RAPA)
 - **Music Instructor at Seondeok High School** (08/2015)
-- **Accompaniment for music broadcasts** (04/2014 - 06/2019)
+- **Accompaniment for music broadcasts** (04/2014-06/2019)
   - Including JTBC's "Hidden Singer", MBC's "Music Festival", and EXO Concert.
 - **Instructor at Gyeonggi-do Office of Education's Dream School for Musical Production** (04/2014 - 12/2016)
